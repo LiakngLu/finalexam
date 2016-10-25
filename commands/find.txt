@@ -1,0 +1,71 @@
+/Users/mac/.Trash/back1/html.txt
+/Users/mac/.Trash/back1/jpg.txt
+/Users/mac/.Trash/back1/mac-/cat.txt
+/Users/mac/.Trash/back1/mac-/head.txt
+/Users/mac/.Trash/Backup 下午10.21.06/commands/bottom.txt
+/Users/mac/.Trash/Backup 下午10.21.06/commands/desktopls.txt
+/Users/mac/.Trash/Backup 下午10.21.06/commands/find.txt
+/Users/mac/.Trash/Backup 下午10.21.06/commands/img.txt
+/Users/mac/.Trash/Backup 下午10.21.06/commands/top.txt
+/Users/mac/.Trash/cat 下午10.28.55.txt
+/Users/mac/.Trash/cat 下午10.35.01.txt
+/Users/mac/.Trash/cat 下午11.28.54.txt
+/Users/mac/.Trash/cat.txt
+/Users/mac/.Trash/desktols.txt
+/Users/mac/.Trash/git 下午10.38.32/LOL/cat.txt
+/Users/mac/.Trash/git 下午4.16.03/MockExam/cat.txt
+/Users/mac/.Trash/git 下午4.16.03/MockExam/find.txt
+/Users/mac/.Trash/git1/html.txt
+/Users/mac/.Trash/git1/jpg.txt
+/Users/mac/.Trash/head 下午11.28.57.txt
+/Users/mac/.Trash/head.txt
+/Users/mac/.Trash/htdocs/commands/desktopls.txt
+/Users/mac/.Trash/htdocs/commands/img.txt
+/Users/mac/.Trash/html 下午9.29.03.txt
+/Users/mac/.Trash/html.txt
+/Users/mac/.Trash/jpg 下午11.08.49.txt
+/Users/mac/.Trash/jpg 下午7.42.06.txt
+/Users/mac/.Trash/jpg 下午9.08.15.txt
+/Users/mac/.Trash/jpg.txt
+/Users/mac/.Trash/LOL/cat.txt
+/Users/mac/.Trash/LOL/head.txt
+/Users/mac/.Trash/MyGit/D3SysExamm/commands/bottom.txt
+/Users/mac/.Trash/MyGit/D3SysExamm/commands/desktopls.txt
+/Users/mac/.Trash/MyGit/D3SysExamm/commands/find.txt
+/Users/mac/.Trash/MyGit/D3SysExamm/commands/img.txt
+/Users/mac/.Trash/MyGit/D3SysExamm/commands/top.txt
+/Users/mac/Desktop/mac/BACKUP/html.txt
+/Users/mac/Desktop/mac/BACKUP/jpg.txt
+/Users/mac/Desktop/mac/BACKUP/lol/cat.txt
+/Users/mac/Desktop/mac/BACKUP/lol/head.txt
+/Users/mac/Desktop/mac/git/html.txt
+/Users/mac/Desktop/mac/git/jpg.txt
+/Users/mac/Desktop/mac/git/lol/cat.txt
+/Users/mac/Desktop/mac/git/lol/head.txt
+/Users/mac/Desktop/MyGit/finalexam/commands/bottom.txt
+/Users/mac/Desktop/MyGit/finalexam/commands/desktopls.txt
+/Users/mac/Desktop/MyGit/finalexam/commands/find.txt
+/Users/mac/Desktop/MyGit/finalexam/commands/img.txt
+/Users/mac/Desktop/MyGit/finalexam/commands/top.txt
+/Users/mac/Desktop/MyGit/finalexam/commands.find.txt
+/Users/mac/Downloads/navigation.txt
+/Users/mac/htdocs/commands/desktopls.txt
+/Users/mac/htdocs/commands/img.txt
+/Users/mac/Library/Application Support/Adobe/Linguistics/UserDictionaries/Adobe Custom Dictionary/en_US/added.txt
+/Users/mac/Library/Application Support/Adobe/Linguistics/UserDictionaries/Adobe Custom Dictionary/en_US/exceptions.txt
+/Users/mac/Library/Application Support/Adobe/Linguistics/UserDictionaries/ATE Hyphenation Exceptions Dictionary/all/added.txt
+/Users/mac/Library/Application Support/Adobe/Linguistics/UserDictionaries/ATE Hyphenation Exceptions Dictionary/en_US/added.txt
+/Users/mac/Library/Application Support/Adobe/Linguistics/UserDictionaries/ATE Hyphenation Exceptions Dictionary/en_US/exceptions.txt
+/Users/mac/Library/Application Support/Brackets/live-dev-profile/Default/Service Worker/CacheStorage/783e7ccd1569e6f0af8b16953519e77950ae84e4/index.txt
+/Users/mac/Library/Application Support/Google/Chrome/Default/Pepper Data/Shockwave Flash/CacheWritableAdobeRoot/AssetCache/FJWAGA8B/cacheSize.txt
+/Users/mac/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/28da9c56fde4021055a681112c092453f74d8dd8/index.txt
+/Users/mac/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/4b80507cb47266453045226f32b2cb4862ad9d50/index.txt
+/Users/mac/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/783e7ccd1569e6f0af8b16953519e77950ae84e4/index.txt
+/Users/mac/Library/Logs/Adobe/Adobe Photoshop CC 2015/Generator/generator_1.txt
+/Users/mac/Library/Logs/Adobe/Adobe Photoshop CC 2015/Generator/generator_2.txt
+/Users/mac/Library/Logs/Adobe/Adobe Photoshop CC 2015/Generator/generator_3.txt
+/Users/mac/Library/Logs/Adobe/Adobe Photoshop CC 2015/Generator/generator_4.txt
+/Users/mac/Library/Logs/Adobe/Adobe Photoshop CC 2015/Generator/generator_latest.txt
+/Users/mac/Library/Mail/V2/IMAP-kk91927@appleimap.163.com/INBOX.mbox/74CE08DB-DF6F-4FDE-8DA1-6854FFD0A5E8/Data/Attachments/198/2/作业2222.txt
+/Users/mac/Library/Preferences/Adobe Photoshop CC 2015 Settings/PSErrorLog.txt
+/Users/mac/Library/Preferences/Adobe Photoshop CC 2015 Settings/sniffer-out.txt
